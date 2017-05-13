@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F45C0D821EC759BE006205B2 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = F45C0D811EC759BE006205B2 /* pokemon.csv */; };
 		F4818E361EBE344C00264135 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4818E351EBE344C00264135 /* AppDelegate.swift */; };
 		F4818E381EBE344C00264135 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4818E371EBE344C00264135 /* ViewController.swift */; };
 		F4818E3B1EBE344C00264135 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4818E391EBE344C00264135 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F45C0D811EC759BE006205B2 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		F4818E321EBE344C00264135 /* pokedex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokedex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4818E351EBE344C00264135 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4818E371EBE344C00264135 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				F4818E371EBE344C00264135 /* ViewController.swift */,
 				F4818E391EBE344C00264135 /* Main.storyboard */,
 				F4818E3C1EBE344C00264135 /* Assets.xcassets */,
+				F45C0D811EC759BE006205B2 /* pokemon.csv */,
 				F4818E3E1EBE344C00264135 /* LaunchScreen.storyboard */,
 				F4818E411EBE344C00264135 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				F4818E401EBE344C00264135 /* LaunchScreen.storyboard in Resources */,
 				F4818E3D1EBE344C00264135 /* Assets.xcassets in Resources */,
+				F45C0D821EC759BE006205B2 /* pokemon.csv in Resources */,
 				F4818E3B1EBE344C00264135 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				F4818E461EBE344C00264135 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
